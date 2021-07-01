@@ -1095,11 +1095,11 @@ textarea:focus {
   padding: 1rem 5rem;
 }
 
-.popup_show {
+.show {
   display: flex;
 }
 
-.popup_hide {
+.hide {
   display: none;
 }
 
